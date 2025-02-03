@@ -133,11 +133,11 @@ In this exercise, we will use OpenStreetMap as our basemap (raster) layer.
 
 - Right-click on each layer and select “**Open Attribute Table**”. A new window will open that shows the attribute table of the selected layer.
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%204.png)
+![image.png](img/image%204.png)
 
 - Every point, line, or polygon file has an attribute table.
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%205.png)
+![image.png](img/image%205.png)
 
 - Any data in the attribute table can be used for displaying and labeling on the map and making queries.
 - You can also create new columns in the table and add data or calculations.
@@ -184,17 +184,17 @@ Let us change the color and categorize the counties’ data according to their n
 2. Select the dropdown button under ‘Single Symbol’ and select “**Categorized**”.
 3. Under ‘Value’ select “Sq_Miles”, choose a color ramp, and click “**Classify**”. 
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%206.png)
+![image.png](img/image%206.png)
 
 4. Click “**Apply**” and then “**OK**”. Your map will now have the counties represented by different colors.
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%207.png)
+![image.png](img/image%207.png)
 
 4. For better visualization effects, you can adjust the stroke style, and overall symbol opacity in the “Symbol Setting”.
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%208.png)
+![image.png](img/image%208.png)
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%209.png)
+![image.png](img/image%209.png)
 
 # Create a Layout of Your Map 🔎
 
@@ -203,7 +203,7 @@ In this section, you are going to create your map that will be exported to becom
 1. On the Menu bar, click ‘Project’ and select “**New Print Layout**”.
 2. A small pane will appear where you will enter the title of your layout and a new layout Window will open.
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%2010.png)
+![image.png](img/image%2010.png)
 
 1. On the left panel, click the “**Add Map**” icon and draw a box where you would like the map to be placed
     
@@ -275,22 +275,22 @@ https://www.44north93west.com/todalss
 
 </aside>
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%2011.png)
+![image.png](img/image%2011.png)
 
 To make the map more visually appealing, here are some final touches:
 
 - Make the fonts of the title, author, and date consistent to “Arial” and “Arial Black”
 - Remove the legend background in ‘Legend > Item Properties’, add title, change arrangement, rename layer displayed name
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%2012.png)
+![image.png](img/image%2012.png)
 
 - Change the Arrow format in “North Arrow > Item Properties’> SVG Browers > SVG Images”. Change its fill color to transparent, and stroke color to dark grey.
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%2013.png)
+![image.png](img/image%2013.png)
 
 - Change the Scale bar format in “Scale Bar > Item Properties > Style > Line Ticks Middle” , “Units > Scalebar units > Miles”
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%2014.png)
+![image.png](img/image%2014.png)
 
 ## Export Your Map 📤 🗺️
 
@@ -301,7 +301,7 @@ To make the map more visually appealing, here are some final touches:
 4. To export the map as a PNG, click ‘Layout’ and select “**Export as an image**” and select where you want to save your map.
 5. You can explicitly set image resolution in the ‘Image Export Options’ window
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%2015.png)
+![image.png](img/image%2015.png)
 
 1. Change the ‘Export options’ if you want then click “**Save**”.
 2. Once done, you can open your file and see how your map looks like. You can also save a PDF version of your cartography work 
