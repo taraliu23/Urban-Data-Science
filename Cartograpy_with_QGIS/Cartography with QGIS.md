@@ -109,17 +109,17 @@ In this exercise, we will use OpenStreetMap as our basemap (raster) layer.
     ![https://libapps.s3.amazonaws.com/accounts/363383/images/dots.PNG](https://libapps.s3.amazonaws.com/accounts/363383/images/dots.PNG)
     
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%201.png)
+![image.png](img/image%201.png)
 
 - Then click “**Add**”
 - When the data source and project have different CRS, you may be prompted to choose the destination CRS.
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%202.png)
+![image.png](img/image%202.png)
 
 - The following data will be added:
     - Georgia_Counties
 
-![image.png](Cartography%20with%20QGIS%20qgis%20189140d41d12802f8b0ed0c456da2ba8/image%203.png)
+![image.png](img/image%203.png)
 
 **Note:** the color of datasets on the Map Canvas might differ from what you see on the image above.
 
