@@ -1,4 +1,4 @@
-# Cartography with QGIS :qgis:
+# Cartography with QGIS
 
 Author: Tara Liu & Yiyi He
 
