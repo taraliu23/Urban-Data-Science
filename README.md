@@ -66,3 +66,56 @@ Python Crash Course
 Author: Srebalaji Thirumalai
 
 Link to GitHub Repo: https://github.com/srebalaji/python-crash-course
+
+## Course Schedule
+
+**Week 1: Introduction**
+- Lecture: Introduction and course overview
+> Lab session: Getting things started-Anaconda and Jupyter
+
+**Week 2: Python fundamentals**
+> Lab session: Introduction to Python 1
+> Lab session: Introduction to Python 2
+
+**Week 3: Data Cleaning and Exploration**
+- Lecture: Exploratory Data Analysis (EDA)
+
+**Week 4: Geographic Data Science**
+- Lecture: Spatial Data Science
+
+**Week 5 Spatial patterns and visualization**
+- Lecture: Poin pattern analysis
+> Lab session: Spatial data visualization
+
+**Week 6 Unsupervised Machine Learning**
+- Lecture: K-means clustering and beyond
+> Lab session: Crime patterns in Atlanta
+
+**Week 7 🌟 Mid-semester project check-in 🌟**
+- Lecture: Principal Component Analysis
+- Mid-semester project presentations
+
+**Week 8 Supervised Machine Learning 1**
+- Lecture: Classification And Regression Trees
+- Lecture: Random Forest
+
+**Week 9 Supervised Machine Learning 2**
+> Lab session: Understanding housing affordability in California
+- Lecture: Support Vector Machine
+
+**Week 10 🥊 Hackathon Challenge 🥊**
+- Day 1: Introduction, Forming teams, Exploratory Analysis
+- Day 2: Team presentations and discussion
+
+**Week 11 Urban Networks**
+- Lecture: Urban networks and graph representation
+> Lab session: Traffic congestion in NYC
+
+**Week 12 Data Science Agent**
+- Lecture: Introduction to computer vision
+
+**Week 13 Computer Vision for Urban Planning**
+- Lecture: Introduction to computer vision
+> Lab session: Google Street View
+
+**Week 14-15 Final Project Presentations**
