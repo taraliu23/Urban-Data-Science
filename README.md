@@ -27,6 +27,25 @@ By the end of this course, you will have acquired fundamental skills and tools e
 4. Identify urban problems/research questions and solve them in a reproducible way using spatial analysis/visualization techniques through final projects.
 5. Engage in hands-on projects and case studies that apply data science techniques to real-world urban challenges, fostering problem-solving and critical thinking skills.
 
+## Students with Disabilities
+
+Students with disabilities needing academic accommodation should provide documentation to the Access Disabled Assistance Program for Tech Students (http://www.adapts.gatech.edu/) and bring an ADAPTS accommodation letter to the instructor indicating the nature of accommodations required. This should be done within the first week of class or as soon as possible after a new disability condition arises. All efforts will be made to provide reasonable accommodations.
+
+## Evaluation
+
+The course will be structured as a combined lecture-lab course. You are expected to have read all assigned readings ahead of time and be prepared to participate actively in class discussions. Students will be evaluated on three sets of tasks:
+
+- Three lab assignments (15 pts total, 5 pts each):
+Through completing three lab assignments, students will gain first-hand knowledge of the use and operation of Python in urban data science challenges.
+
+- Hackathon challenge (30 pts total):
+The hackathon leverages open datasets and advanced analytics to address critical issues. Teams will use data visualization, machine learning, and geospatial analysis to develop actionable solutions, presenting their insights to the class.
+
+- Final Project (55 pts total: 15 pts on Presentation, 40 pts on Final project paper):
+The final class requirement is a team-based project that applies the knowledge learned in the class to a real-world problem. Fifteen percent of the total course grade will be a formal presentation to the class.
+
+All assignments (unless otherwise noted) are to be submitted through the “Assignments” tab on Canvas. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system on time. For late submissions to any of the assignments above (final project paper excluded), a .5 point/day penalty will be applied. Late project paper submissions are not accepted. In the case of illness or other special circumstances, notification should be given as soon as possible and before the assignment deadline.
+
 ## Learning Resources
 
 📖 Python for Data Analysis (3rd Edition)
@@ -66,3 +85,56 @@ Python Crash Course
 Author: Srebalaji Thirumalai
 
 Link to GitHub Repo: https://github.com/srebalaji/python-crash-course
+
+## Course Schedule
+
+**Week 1: Introduction**
+- Lecture: Introduction and course overview
+> Lab session: Getting things started-Anaconda and Jupyter
+
+**Week 2: Python fundamentals**
+> Lab session: Introduction to Python 1
+> Lab session: Introduction to Python 2
+
+**Week 3: Data Cleaning and Exploration**
+- Lecture: Exploratory Data Analysis (EDA)
+
+**Week 4: Geographic Data Science**
+- Lecture: Spatial Data Science
+
+**Week 5 Spatial patterns and visualization**
+- Lecture: Poin pattern analysis
+> Lab session: Spatial data visualization
+
+**Week 6 Unsupervised Machine Learning**
+- Lecture: K-means clustering and beyond
+> Lab session: Crime patterns in Atlanta
+
+**Week 7 🌟 Mid-semester project check-in 🌟**
+- Lecture: Principal Component Analysis
+- Mid-semester project presentations
+
+**Week 8 Supervised Machine Learning 1**
+- Lecture: Classification And Regression Trees
+- Lecture: Random Forest
+
+**Week 9 Supervised Machine Learning 2**
+> Lab session: Understanding housing affordability in California
+- Lecture: Support Vector Machine
+
+**Week 10 🥊 Hackathon Challenge 🥊**
+- Day 1: Introduction, Forming teams, Exploratory Analysis
+- Day 2: Team presentations and discussion
+
+**Week 11 Urban Networks**
+- Lecture: Urban networks and graph representation
+> Lab session: Traffic congestion in NYC
+
+**Week 12 Data Science Agent**
+- Lecture: Introduction to computer vision
+
+**Week 13 Computer Vision for Urban Planning**
+- Lecture: Introduction to computer vision
+> Lab session: Google Street View
+
+**Week 14-15 Final Project Presentations**
